@@ -1,5 +1,5 @@
-Estudiante 1: Javier Cerino 202020873
-Estudiante 2: Marco Zuliani 202022412
+Estudiante 1: Javier Cerino - j.cerino 202020873
+Estudiante 2: Marco Zuliani - m.zuliani 202022412
 
 #ISIS1225 - Estructura de un proyecto
 
