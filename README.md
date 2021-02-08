@@ -1,3 +1,6 @@
+Estudiante 1: Javier Cerino 202020873
+Estudiante 2: Marco Zuliani 202022412
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
